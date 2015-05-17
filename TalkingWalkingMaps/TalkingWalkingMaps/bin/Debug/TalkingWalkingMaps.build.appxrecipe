@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABORNST-YOGA</Machine>
+    <WindowsUser>abornst</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>49a4ff47-0ced-41e2-b06f-00de84667851</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\TalkingWalkingMaps.exe">
+      <PackagePath>TalkingWalkingMaps.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Release\MappingUtilities.Pcl.dll">
+      <PackagePath>MappingUtilities.Pcl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\man.png">
+      <PackagePath>Assets\man.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\car.png">
+      <PackagePath>Assets\car.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square150x150Logo.scale-140.png">
+      <PackagePath>Assets\Square150x150Logo.scale-140.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square150x150Logo.scale-240.png">
+      <PackagePath>Assets\Square150x150Logo.scale-240.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square71x71Logo.scale-270.png">
+      <PackagePath>Assets\Square71x71Logo.scale-270.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\StoreIcon.png">
+      <PackagePath>Assets\StoreIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\StorePromo.png">
+      <PackagePath>Assets\StorePromo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\traffic.png">
+      <PackagePath>Assets\traffic.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\DirectionsList.xbf">
+      <PackagePath>DirectionsList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\ManeuverDisplayer.xbf">
+      <PackagePath>ManeuverDisplayer.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\RouteBetween.xbf">
+      <PackagePath>RouteBetween.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\RouteFrom.xbf">
+      <PackagePath>RouteFrom.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\TalkingWalkingMaps.xr.xml">
+      <PackagePath>TalkingWalkingMaps.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\TalkingWalkingMaps\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

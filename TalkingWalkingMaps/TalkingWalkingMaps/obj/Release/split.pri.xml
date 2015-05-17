@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="55532ThePythicCoder.TalkingWalkingMaps" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DirectionsList.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/DirectionsList.xbf">
+				<Candidate type="Path">
+					<Value>DirectionsList.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ManeuverDisplayer.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/ManeuverDisplayer.xbf">
+				<Candidate type="Path">
+					<Value>ManeuverDisplayer.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RouteBetween.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/RouteBetween.xbf">
+				<Candidate type="Path">
+					<Value>RouteBetween.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RouteFrom.xbf" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/RouteFrom.xbf">
+				<Candidate type="Path">
+					<Value>RouteFrom.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TalkingWalkingMaps.xr.xml" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/TalkingWalkingMaps.xr.xml">
+				<Candidate type="Path">
+					<Value>TalkingWalkingMaps.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="BadgeLogo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/BadgeLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\BadgeLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="car.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/car.png">
+					<Candidate type="Path">
+						<Value>Assets\car.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="man.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/man.png">
+					<Candidate type="Path">
+						<Value>Assets\man.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.scale-270.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/Square71x71Logo.scale-270.png">
+					<Candidate type="Path">
+						<Value>Assets\Square71x71Logo.scale-270.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreIcon.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/StoreIcon.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreIcon.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StorePromo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/StorePromo.png">
+					<Candidate type="Path">
+						<Value>Assets\StorePromo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="traffic.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/traffic.png">
+					<Candidate type="Path">
+						<Value>Assets\traffic.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://55532ThePythicCoder.TalkingWalkingMaps/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

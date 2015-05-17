@@ -1,0 +1,17 @@
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Release\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Release\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Release\MappingUtilities.Pcl.pri
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\MappingUtilities.Pcl.csprojResolveAssemblyReference.cache
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\priconfig.xml
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\priconfig.xml.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\layout.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\layout.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\resources.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\resources.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\pri.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\pri.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\qualifiers.txt
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\qualifiers.txt.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Release\MultipleQualifiersPerDimensionFound.txt

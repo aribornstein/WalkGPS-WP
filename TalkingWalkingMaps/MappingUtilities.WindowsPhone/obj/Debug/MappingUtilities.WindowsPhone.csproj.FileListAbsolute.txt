@@ -1,0 +1,48 @@
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.dll
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.dll
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.dll
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pdb
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pri
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.dll
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.pdb
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\bin\Debug\MappingUtilities.pri
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\MappingUtilities.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt

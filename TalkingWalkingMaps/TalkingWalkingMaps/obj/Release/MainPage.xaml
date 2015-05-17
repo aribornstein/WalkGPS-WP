@@ -1,0 +1,41 @@
+﻿<Page
+    x:Class="TalkingWalkingMaps.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TalkingWalkingMaps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps" 
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Maps:MapControl Name="myMap" Visibility="Visible" MapServiceToken="iEcPkaFwCAH0dd0AREaCgA" PedestrianFeaturesVisible="True" LandmarksVisible="True"  />
+        <local:ManeuverDisplayer x:Name ="ManeuverDisplay" Height="100" Grid.Row="1" VerticalAlignment="Bottom"/>
+        <TextBox x:ConnectionId='1' PlaceholderText="Search by Address or Site." Name="SearchBox"                            />
+            
+        
+    </Grid>
+
+    <Page.BottomAppBar>
+        
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='2' Icon="Directions" Label="Route To Here"                    />
+                <AppBarButton x:ConnectionId='3' Icon="Directions" Label="Route Between"                     />
+                <AppBarButton x:ConnectionId='4' Icon="Directions" Label="List Directions"                       />
+                <AppBarButton x:ConnectionId='5' Name="VoiceToggle" Icon="Volume" Label="Mute Voice"                    />
+                <AppBarButton x:ConnectionId='6' Name="LocationToggle" Icon="Volume" Label="Toggle Location Services"                             />
+            </CommandBar.SecondaryCommands>
+           
+            <AppBarButton x:ConnectionId='7' Label="Refresh" Icon="Target"                />
+            <AppBarButton x:ConnectionId='8' Label="Zoom Out" Icon="Remove"                />
+            <AppBarButton x:ConnectionId='9' Label="Zoom In" Icon="Add"               />
+            <AppBarButton x:ConnectionId='10' Label="Search" Icon="Find"               />
+     
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+</Page>
+

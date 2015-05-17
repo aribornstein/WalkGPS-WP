@@ -1,0 +1,40 @@
+﻿<Page
+    x:Class="TalkingWalkingMaps.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:TalkingWalkingMaps"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+   xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps" 
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Maps:MapControl Name="myMap" Visibility="Visible" MapServiceToken="iEcPkaFwCAH0dd0AREaCgA" PedestrianFeaturesVisible="True" LandmarksVisible="True"  />
+        <local:ManeuverDisplayer x:Name ="ManeuverDisplay" Height="100" Grid.Row="1" VerticalAlignment="Bottom"/>
+        <TextBox PlaceholderText="Search by Address or Site." Name="SearchBox" KeyDown="SearchBox_KeyDown"/>
+            
+        
+    </Grid>
+
+    <Page.BottomAppBar>
+        
+        <CommandBar>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton Icon="Directions" Label="Route To Here" Click="RouteToHere"/>
+                <AppBarButton Icon="Directions" Label="Route Between" Click="RouteBetween"/>
+                <AppBarButton Icon="Directions" Label="List Directions" Click="ListDirections"/>
+                <AppBarButton Name="VoiceToggle" Icon="Volume" Label="Mute Voice" Click="ToggleVoice"/>
+                <AppBarButton Name="LocationToggle" Icon="Volume" Label="Toggle Location Services" Click="LocationToggle_Click"/>
+            </CommandBar.SecondaryCommands>
+           
+            <AppBarButton Label="Refresh" Icon="Target" Click="Refresh"/>
+            <AppBarButton Label="Zoom Out" Icon="Remove" Click="ZoomOut"/>
+            <AppBarButton Label="Zoom In" Icon="Add" Click="ZoomIn"/>
+            <AppBarButton Label="Search" Icon="Find" Click="Search"/>
+     
+
+        </CommandBar>
+    </Page.BottomAppBar>
+
+</Page>

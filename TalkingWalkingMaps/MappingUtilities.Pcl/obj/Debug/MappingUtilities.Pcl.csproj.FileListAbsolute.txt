@@ -1,0 +1,51 @@
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.dll
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pri
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.csprojResolveAssemblyReference.cache
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.dll
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.pdb
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\priconfig.xml
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\priconfig.xml.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\layout.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\layout.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\resources.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\resources.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\pri.resfiles
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\pri.resfiles.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\qualifiers.txt
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\qualifiers.txt.intermediate
+C:\Users\mashapir\OneDrive\Documents\Jumpstart Decks\DemoProjects\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pri
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.csprojResolveAssemblyReference.cache
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\priconfig.xml
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\priconfig.xml.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\layout.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\layout.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\resources.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\resources.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\pri.resfiles
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\pri.resfiles.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\qualifiers.txt
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\qualifiers.txt.intermediate
+C:\Users\abornst\Documents\WPSamples\Session 12 Demos\Session 12 Demos\MappingUtilities\MappingUtilities.Pcl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\bin\Debug\MappingUtilities.Pcl.pri
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.csprojResolveAssemblyReference.cache
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.dll
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\MappingUtilities.Pcl.pdb
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\priconfig.xml
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\priconfig.xml.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\layout.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\layout.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\resources.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\resources.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\pri.resfiles
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\pri.resfiles.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\qualifiers.txt
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\qualifiers.txt.intermediate
+C:\Users\abornst\Documents\Visual Studio 2013\Projects\TalkingWalkingMaps\MappingUtilities.Pcl\obj\Debug\MultipleQualifiersPerDimensionFound.txt
